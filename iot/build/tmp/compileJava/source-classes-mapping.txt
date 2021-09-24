@@ -1,0 +1,26 @@
+it/uniupo/pissir/iot/Misura.java
+ it.uniupo.pissir.iot.Misura
+it/uniupo/pissir/iot/SensoreLucePublisher.java
+ it.uniupo.pissir.iot.SensoreLucePublisher
+it/uniupo/pissir/iot/SensoreTemperaturaPublisher.java
+ it.uniupo.pissir.iot.SensoreTemperaturaPublisher
+it/uniupo/pissir/iot/GestoreMisure.java
+ it.uniupo.pissir.iot.GestoreMisure
+ it.uniupo.pissir.iot.GestoreMisure$GestoreMisureCallback
+it/uniupo/pissir/iot/SensoreFumoPublisher.java
+ it.uniupo.pissir.iot.SensoreFumoPublisher
+it/uniupo/pissir/iot/Prenotazione.java
+ it.uniupo.pissir.iot.Prenotazione
+it/uniupo/pissir/iot/SimBackendDBMock.java
+ it.uniupo.pissir.iot.SimBackendDBMock
+it/uniupo/pissir/iot/AttuatoreFumoSubscriber.java
+ it.uniupo.pissir.iot.AttuatoreFumoSubscriber
+ it.uniupo.pissir.iot.AttuatoreFumoSubscriber$AttuatoreFumoCallBack
+it/uniupo/pissir/iot/AttuatoreTemperaturaSubscriber.java
+ it.uniupo.pissir.iot.AttuatoreTemperaturaSubscriber
+ it.uniupo.pissir.iot.AttuatoreTemperaturaSubscriber$AttuatoreTemperaturaCallback
+it/uniupo/pissir/iot/BackEndSimHandleIoT.java
+ it.uniupo.pissir.iot.BackEndSimHandleIoT
+it/uniupo/pissir/iot/AttuatoreLuceSubscriber.java
+ it.uniupo.pissir.iot.AttuatoreLuceSubscriber
+ it.uniupo.pissir.iot.AttuatoreLuceSubscriber$AttuatoreLuceCallBack
